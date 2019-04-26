@@ -3,5 +3,6 @@ mod 'puppetlabs/stdlib'
 mod 'puppetlabs/concat'
 mod 'pltraining/dockeragent'
 mod 'garethr/docker'
+mod 'puppetlabs-docker', '3.5.0'
 
 
